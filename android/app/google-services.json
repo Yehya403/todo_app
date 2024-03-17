@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905048305653",
+    "project_id": "my-to-do-app-yehya403",
+    "storage_bucket": "my-to-do-app-yehya403.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905048305653:android:0edaf352fb48908b343abc",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Y_wZ8vL1OqcbbZ86FucSbfy2EnycZgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
